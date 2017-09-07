@@ -1,3 +1,9 @@
+https://raucha.github.io/mypage/
+
+# よくアクセスするサイト
+[福銀クレカ]https://www3.vpass.ne.jp/memx/web_meisai/top/index.html
+[Amazonクレカ]https://www.smbc-card.com/memx/web_meisai/top/index.html
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raucha/mypage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
